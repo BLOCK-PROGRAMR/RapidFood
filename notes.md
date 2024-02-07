@@ -1,0 +1,16 @@
+# parcel
+-dev build
+-local server
+-HMR =hot module replacement
+-file watching algorithms-witten in c++
+-caching -faster builder
+-image optimization
+-minification
+-bundling
+-compressing
+-consistent hashing
+-code splitting
+- differntial bundling -support older browsers
+-diagnostic
+-error handling
+-https
